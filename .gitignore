@@ -1,0 +1,14 @@
+# Ignore everything by default
+*
+
+# Un-ignore the feedback log and its media
+!.gitignore
+!README.md
+!PRACTISM-DESIGNER-FEEDBACK.md
+!feedback-media/
+!feedback-media/**
+
+# Never track Windows/Drive junk even inside allowed folders
+desktop.ini
+Thumbs.db
+.DS_Store
