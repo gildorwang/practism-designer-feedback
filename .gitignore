@@ -5,8 +5,11 @@
 !.gitignore
 !README.md
 !PRACTISM-DESIGNER-FEEDBACK.md
+!PRACTISM-DESIGNER-FEEDBACK-R2.md
 !feedback-media/
 !feedback-media/**
+!feedback-media-r2/
+!feedback-media-r2/**
 
 # Never track Windows/Drive junk even inside allowed folders
 desktop.ini
