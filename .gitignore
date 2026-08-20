@@ -6,10 +6,13 @@
 !README.md
 !PRACTISM-DESIGNER-FEEDBACK.md
 !PRACTISM-DESIGNER-FEEDBACK-R2.md
+!PRACTISM-DESIGNER-FEEDBACK-R3.md
 !feedback-media/
 !feedback-media/**
 !feedback-media-r2/
 !feedback-media-r2/**
+!feedback-media-r3/
+!feedback-media-r3/**
 
 # Never track Windows/Drive junk even inside allowed folders
 desktop.ini
